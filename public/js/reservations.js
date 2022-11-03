@@ -1,4 +1,5 @@
-var rtb_pickadate = {
+/* eslint-disable no-unused-vars */
+const rtb_pickadate = {
     "date_format": "mmmm d, yyyy",
     "time_format": "h:i A",
     "disable_dates": [1],
