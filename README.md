@@ -25,6 +25,7 @@ There are three routes:
 The server persists using a SQLite3 database named `database.sqlite` in the site root.
 
 ## Development
+This project uses EditorConfig to standardized text editor configuration. Visit https://editorconfig.org for details.
 
 ### Debugging
 
@@ -57,3 +58,4 @@ The conversion:
 - Converted HTML into Jade / Pug templates using http://html2jade.org/
 
 The front end should be mostly unchanged from the original.
+
