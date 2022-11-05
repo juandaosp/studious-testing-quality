@@ -32,6 +32,16 @@ The server persists using a SQLite3 database named `database.sqlite` in the site
 
 This project uses Jest for testing. Visit https://jestjs.io for details.
 
+```bash
+npm test
+```
+
+* for running coverage report: 
+
+```bash
+npm run test:coverage
+```
+
 ### Debugging
 
 This project uses https://www.npmjs.com/package/debug for development logging. To start `nodemon` and enable logging:
